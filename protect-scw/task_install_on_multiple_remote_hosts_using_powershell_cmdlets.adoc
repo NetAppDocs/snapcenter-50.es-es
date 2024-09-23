@@ -20,7 +20,7 @@ Tiene que haber iniciado sesión en SnapCenter como usuario del dominio con dere
 . En el host del servidor de SnapCenter, establezca una sesión mediante `Open-SmConnection` el cmdlet y, a continuación, introduzca sus credenciales.
 . Añada el host o el clúster independiente a SnapCenter con `Add-SmHost` el cmdlet y los parámetros requeridos.
 +
-La información relativa a los parámetros que se pueden utilizar con el cmdlet y sus descripciones se puede obtener ejecutando _Get-Help nombre_comando_. Alternativamente, también puede consultar la https://library.netapp.com/ecm/ecm_download_file/ECMLP2886895["Guía de referencia de cmdlets de SnapCenter Software"^].
+La información relativa a los parámetros que se pueden utilizar con el cmdlet y sus descripciones se puede obtener ejecutando _Get-Help nombre_comando_. Alternativamente, también puede consultar la https://docs.netapp.com/us-en/snapcenter-cmdlets-50/index.html["Guía de referencia de cmdlets de SnapCenter Software"^].
 
 . Instale el plugin en varios hosts mediante `Install-SmHostPackage` el cmdlet y los parámetros requeridos.
 +
