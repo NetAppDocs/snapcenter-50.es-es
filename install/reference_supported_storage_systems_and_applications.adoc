@@ -13,7 +13,7 @@ summary: Debe conocer cuáles son los sistemas de almacenamiento, las aplicacion
 [role="lead"]
 Debe conocer cuáles son los sistemas de almacenamiento, las aplicaciones y las bases de datos compatibles.
 
-* SnapCenter admite ONTAP 8.3.0 y versiones posteriores para proteger sus datos.
+* SnapCenter admite ONTAP 9 e.8 y versiones posteriores para proteger sus datos.
 * SnapCenter es compatible con Amazon FSX para ONTAP de NetApp y proteger sus datos de la versión de revisión P1 del software SnapCenter 4.5.
 +
 Si utiliza Amazon FSX para ONTAP de NetApp, asegúrese de que los plugins del host del servidor SnapCenter se actualicen a 4.5 P1 o una versión posterior para realizar operaciones de protección de datos.
