@@ -13,4 +13,4 @@ summary: Tendrá que instalar y configurar el plugin de SnapCenter para Microsof
 [role="lead"]
 Tendrá que instalar y configurar el plugin de SnapCenter para Microsoft SQL Server si desea proteger las bases de datos de SQL Server.
 
-image::../media/scsql_install_configure_workflow.gif[el flujo de trabajo de configuración de instalación de smsql]
+image::../media/scsql_install_configure_workflow.gif[Flujo de trabajo de instalación del plugin para base de datos de SQL]

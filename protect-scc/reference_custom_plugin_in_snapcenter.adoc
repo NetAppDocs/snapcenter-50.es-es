@@ -188,7 +188,7 @@ Para obtener información detallada sobre los cmdlets de PowerShell, use la ayud
 
 
 
-https://docs.netapp.com/us-en/snapcenter-cmdlets-50/index.htmll["Guía de referencia de cmdlets de SnapCenter Software"^].
+https://docs.netapp.com/us-en/snapcenter-cmdlets-50/index.html["Guía de referencia de cmdlets de SnapCenter Software"^].
 
 
 

@@ -278,7 +278,7 @@ Esta opción debe estar habilitada para continuidad del negocio con SnapMirror (
 Durante la replicación secundaria, el tiempo de caducidad del SnapLock carga el tiempo de caducidad del SnapLock principal. Al hacer clic en el botón *Refrescar* de la página Topología, se actualiza el tiempo de caducidad de SnapLock secundario y primario que se recuperan de ONTAP.
 
 +
-Consulte link:..protect-scsql/task_view_sql_server_backups_and_clones_in_the_topology_page.html["Consulte los backups y los clones de SQL Server en la página Topology"].
+Consulte link:task_view_sql_server_backups_and_clones_in_the_topology_page.html["Consulte los backups y los clones de SQL Server en la página Topology"].
 
 
 
@@ -298,7 +298,7 @@ Cuando SnapLock se configura solo en el secundario desde ONTAP conocido como Alm
 Para obtener más información sobre el Almacén SnapLock, consulte https://docs.netapp.com/us-en/ontap/snaplock/commit-snapshot-copies-worm-concept.html["Confirmar copias Snapshot a WORM en un destino de almacén"]
 
 +
-Consulte link:..protect-scsql/task_view_sql_server_backups_and_clones_in_the_topology_page.html["Consulte los backups y los clones de SQL Server en la página Topology"].
+Consulte link:task_view_sql_server_backups_and_clones_in_the_topology_page.html["Consulte los backups y los clones de SQL Server en la página Topology"].
 
 
 

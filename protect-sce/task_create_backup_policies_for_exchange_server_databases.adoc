@@ -278,7 +278,7 @@ Durante la replicación secundaria, el tiempo de caducidad del SnapLock carga el
 
 Al hacer clic en el botón *Refrescar* de la página Topología, se actualiza el tiempo de caducidad de SnapLock secundario y primario que se recuperan de ONTAP.
 
-Consulte link:..protect-sce/task_view_exchange_backups_in_the_topology_page.html["Consulte los backups de Exchange en la página Topology"].
+Consulte link:task_view_exchange_backups_in_the_topology_page.html["Consulte los backups de Exchange en la página Topology"].
  a| 
 Seleccione esta opción para mantener copias de SnapMirror de conjuntos de backups en otro volumen (SnapMirror).
 

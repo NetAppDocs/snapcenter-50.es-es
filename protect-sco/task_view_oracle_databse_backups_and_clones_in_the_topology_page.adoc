@@ -80,7 +80,7 @@ NOTE: Los backups que figuran en el almacenamiento secundario no pueden eliminar
 ** Si catalogó el backup con Oracle RMAN, no puede cambiar el nombre de esos backups catalogados.
 
 
-. Si desea eliminar un clon, selecciónelo de la tabla y, a continuación, haga clic en image:../media/delete_icon.gif[""].
+. Si desea eliminar un clon, selecciónelo de la tabla y, a continuación, haga clic en image:../media/delete_icon.gif["icono de eliminar"].
 
 
 Si el valor asignado a SnapmirrorStatusUpdateWaitTime es menor, las copias de backup de reflejo y almacén no se enumeran en la página de topología aunque los volúmenes de registros y datos estén protegidos correctamente. Debe aumentar el valor asignado a SnapmirrorStatusUpdateWaitTime con el cmdlet _Set-SmConfigSettings_ PowerShell.

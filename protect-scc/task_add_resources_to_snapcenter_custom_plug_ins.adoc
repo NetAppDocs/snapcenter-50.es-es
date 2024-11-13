@@ -20,7 +20,7 @@ Debe añadir los recursos que desee incluir en un backup o clonar. En función d
 
 
 .Acerca de esta tarea
-También puede añadir recursos para MySQL y aplicaciones DB2. Estos plugins pueden descargarse del https://automationstore.netapp.com/home.shtml["Almacén de automatización del almacenamiento de NetApp"].
+También puede añadir recursos para MySQL y aplicaciones DB2.
 
 .Pasos
 . En el panel de navegación izquierdo, seleccione *Recursos* y, a continuación, seleccione el plugin apropiado de la lista.

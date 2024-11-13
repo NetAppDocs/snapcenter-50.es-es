@@ -119,7 +119,7 @@ Durante la replicación secundaria, el tiempo de caducidad del SnapLock carga el
 
 Al hacer clic en el botón *Refrescar* de la página Topología, se actualiza el tiempo de caducidad de SnapLock secundario y primario que se recuperan de ONTAP.
 
-Consulte link:protect-scc/task_view_custom_plug_in_resource_backups_and_clones_in_the_topology_page.html["Consulte los clones y backups relacionados con los recursos de plugins personalizados en la página Topology"].
+Consulte link:task_view_custom_plug_in_resource_backups_and_clones_in_the_topology_page.html["Consulte los clones y backups relacionados con los recursos de plugins personalizados en la página Topology"].
 
 
 
@@ -134,7 +134,7 @@ Cuando SnapLock se configura solo en el secundario desde ONTAP conocido como Alm
 
 Para obtener más información sobre el almacén de SnapLock, consulte Confirmar instantáneas en WORM en un destino de almacén
 
-Consulte link:protect-scc/task_view_custom_plug_in_resource_backups_and_clones_in_the_topology_page.html["Consulte los clones y backups relacionados con los recursos de plugins personalizados en la página Topology"].
+Consulte link:task_view_custom_plug_in_resource_backups_and_clones_in_the_topology_page.html["Consulte los clones y backups relacionados con los recursos de plugins personalizados en la página Topology"].
 
 
 

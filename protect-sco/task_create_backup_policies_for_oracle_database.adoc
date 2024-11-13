@@ -126,7 +126,7 @@ Seleccione *Eliminar registros de archivo de los destinos que forman parte de co
 
 |===
 +
-image:../media/sco_backuppolicy_prunning.gif[""]
+image:../media/sco_backuppolicy_prunning.gif["incumplimiento de la política de backup"]
 
 
 
@@ -200,7 +200,7 @@ Cuando SnapLock se configura solo en el secundario desde ONTAP conocido como Alm
 
 Para obtener más información sobre el Almacén SnapLock, consulte https://docs.netapp.com/us-en/ontap/snaplock/commit-snapshot-copies-worm-concept.html["Confirmar copias Snapshot a WORM en un destino de almacén"]
 
-Consulte link:..protect-sco/task_view_oracle_databse_backups_and_clones_in_the_topology_page.html["Consulte los backups y los clones de las bases de datos de Oracle en la página Topology"].
+Consulte link:task_view_oracle_databse_backups_and_clones_in_the_topology_page.html["Consulte los backups y los clones de las bases de datos de Oracle en la página Topology"].
 
 
 
@@ -234,7 +234,7 @@ Debe almacenar los scripts previos y los scripts posteriores en _/var/opt/snapce
 También puede especificar el valor de tiempo de espera del script. El valor predeterminado es 60 segundos.
 
 +
-SnapCenter permite utilizar las variables de entorno predefinidas al ejecutar el script previo y el script posterior. link:../protect-sco/predefined-environment-variables-prescript-postscript-backup.html["Leer más"^]
+SnapCenter permite utilizar las variables de entorno predefinidas al ejecutar el script previo y el script posterior. link:predefined-environment-variables-prescript-postscript-backup.html["Leer más"^]
 
 . En la página Verification, realice los siguientes pasos:
 +

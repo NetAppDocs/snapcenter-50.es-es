@@ -7,7 +7,7 @@ summary: Proporciona información importante sobre esta versión de SnapCenter S
 = Notas de la versión
 :allow-uri-read: 
 :icons: font
-:imagesdir: ../media/
+:imagesdir: ./media/
 
 
 [role="lead"]
